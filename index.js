@@ -3,18 +3,18 @@
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 
 const firstUser = {
-    name : "Rival Adrian Juliansyah",
-    gender : "Laki-Laki",
-    age : 24,
-    email : "rival@juliansyah.my.id",
-    favoriteColor : ["Hitam", "Putih", "Abu-Abu", "Biru"],
+    name : "Monica",
+    gender : "Female",
+    age : 17,
+    email : "monica@dingdong.com",
+    favoriteColor : ["Yellow", "Pink", "White", "Purple"],
     isHavePet : true,
     education : [
-            {name : "SD", city : "Bandung", graduation : 2009},
-            {name : "SMP", city : "Bandung", graduation : 2012},
-            {name : "SMA", city : "Bandung", graduation : 2015},
+            {name : "SD 01", city : "Jakarta", graduation : 2009},
+            {name : "SMP 02", city : "Jakarta", graduation : 2012},
+            {name : "SMA 03", city : "Tangerang", graduation : 2015},
         ],
-    favoriteRestaurant : {bakso : "Semar", minuman : "Mixue", kebab : "Kebab Bosman"},
+    favoriteRestaurant : {geprek : "Bensu", katsu : "Rabenshi", tempura : "Yusukekun"},
 };
 const secondUser = {
     name : "Wendy",
